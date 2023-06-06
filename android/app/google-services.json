@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924763873288",
+    "project_id": "htione-89917",
+    "storage_bucket": "htione-89917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924763873288:android:4c775eec840f23f9a831bd",
+        "android_client_info": {
+          "package_name": "com.zemamahdy.hti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924763873288-5aculrgtljgl25h5bl0sofu7m2asc19r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzrCBjhZOixmDq7cKjdEhSrkoCHCBytUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924763873288-5aculrgtljgl25h5bl0sofu7m2asc19r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
